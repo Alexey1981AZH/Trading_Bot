@@ -1,0 +1,30 @@
+# Virtual environments
+venv/
+.venv/
+.env/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build & distribution
+build/
+dist/
+*.egg-info/
+
+# IDE & OS artifacts
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# Logs in CSV format
+logs/**/*.csv
+
+# Notebook checkpoints
+.ipynb_checkpoints/
